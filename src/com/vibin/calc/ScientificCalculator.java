@@ -6,7 +6,7 @@ import java.util.*;
  * 
  * @author Vibin Sukumar
  * @School Cambridge Public School, Bangalore
- * @Std 10th C
+ * @Std 10th
  * @Date Oct 2019
  * Usage: just run and provide expression
  */
